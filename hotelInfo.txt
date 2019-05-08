@@ -1,0 +1,6 @@
+Marriott,Downtown,123 Street West,12,Minibar Pool Balcony,250
+Herring,Old Port,512 Street West,5,Pool Balcony,100
+JamesTown,Montreal East,858 Street East,3,Water front Garden front Balcony,80
+Polo,Montreal West,66 BellVue,4,Minibar,25
+Laconia,Near the airport,477 Trudeau Street,6,Water front Garden front Minibar Pool Balcony,400
+KirkLand,Downtown,321 Street West,8,Pool,45
